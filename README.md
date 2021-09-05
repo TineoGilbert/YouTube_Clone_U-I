@@ -2,7 +2,7 @@
 
 Proyecto creado con React en donde se simula a nivel de U/I (User Interface) una copia de la Página inicial de YouTubbe, aplicando conceptos de React como: Components, Props, Routes y UseState
 
-Project created with React where a copy of the YouTubbe Home Page is simulated at the U / I (User Interface) level, applying React concepts such as: Components, Props, Routes and UseSatet.
+Project created with React where a copy of the YouTubbe Home Page is simulated at the U / I (User Interface) level, applying React concepts such as: Components, Props, Routes and UseState.
 
 ## Herramientas Utilizadas / Used Tools
 
